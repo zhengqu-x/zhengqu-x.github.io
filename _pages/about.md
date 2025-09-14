@@ -13,7 +13,7 @@ I am currently a Professor at the School of Mathematical Sciences, Shenzhen Univ
 
 
 
-Representative Publications
+Journal Publications
 ======
 <ul>
   <li>Zheng Hua and <b>Zheng Qu</b>. Exactness and effective degree bound of Lasserre's relaxation for polynomial optimization over finite variety, <i>Mathematics of Operations Research,</i> 2025. <a href="https://doi.org/10.1287/moor.2024.0483">DOI:10.1287/moor.2024.0483</a></li>
@@ -35,35 +35,20 @@ Representative Publications
   <li><b>Zheng Qu</b>. Contraction of Riccati flows applied to the convergence analysis of a max-plus curse of dimensionality free method, <i>SIAM Journal on Control and Optimization, 52(5):2677-2706,</i> 2014. <a href="http://epubs.siam.org/doi/abs/10.1137/130906702">DOI:10.1137/130906702</a></li>
   <li>Stephane Gaubert, <b>Zheng Qu</b>. The contraction rate in Thompson metric of order-preserving flows on a cone - application to generalized Riccati equations, <i>Journal of Differential Equations, 256(8):2902-2948,</i> 2014. <a href="http://www.sciencedirect.com/science/article/pii/S0022039614000424">DOI:10.1016/j.jde.2014.01.024</a></li>
 </ul>
-Getting started
+
+
+Refereed Conference Proceeding Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+<ul>
+  <li>Marianne Akian, Stephane Gaubert, <b>Zheng Qu</b> and Omar Saadi. Solving ergodic Markov decision processes and perfect information Zero-sum stochastic games by variance reduced deflated value iteration, <a href="https://ieeexplore.ieee.org/document/9029885"><i>IEEE 58th Conference on Decision and Control <b>(CDC)</b>, Nice, France,  pp. 5963-5970</i></a>, 2019.</li>
+  <li>Xun Qian, <b>Zheng Qu</b> and Peter Richtárik. SAGA with arbitrary sampling, <a href="http://proceedings.mlr.press/v97/qian19a.html"><i>Proceedings of the 36th International Conference on Machine Learning <b>(ICML)</b>, PMLR 97:5190-5199</i></a>, 2019.</li>
+  <li>Zeyuan Allen-Zhu, <b>Zheng Qu</b>, Peter Richtárik and Yang Yuan. Even Faster Accelerated Coordinate Descent Using Non-Uniform Sampling, <a href="http://proceedings.mlr.press/v48/allen-zhuc16.pdf"><i>Proceedings of the 33rd International Conference on Machine Learning <b>(ICML)</b>, PMLR 48:1110-1119</i></a>, 2016.</li>
+  <li><b>Zheng Qu</b>, Peter Richtárik, Martin Takáč and Olivier Fercoq. SDNA: Stochastic Dual Newton Ascent for Empirical Risk Minimization, <a href="http://proceedings.mlr.press/v48/qub16.pdf"><i>Proceedings of the 33rd International Conference on Machine Learning <b>(ICML)</b>, PMLR 48:1823-1832</i></a>, 2016.</li>
+  <li>Dominik Csiba, <b>Zheng Qu</b> and Peter Richtárik. Stochastic Dual Coordinate Ascent with Adaptive Probabilities, <a href="http://proceedings.mlr.press/v37/csiba15.pdf"><i>Proceedings of the 32nd International Conference on Machine Learning <b>(ICML)</b>, PMLR 37:674-683</i></a>, 2015.</li>
+  <li><b>Zheng Qu</b>, Peter Richtárik and Tong Zhang. Randomized dual coordinate ascent with arbitrary sampling, <a href="https://proceedings.neurips.cc/paper/2015/file/01f78be6f7cad02658508fe4616098a9-Paper.pdf"><i>Advances in Neural Information Processing Systems <b>(NeurIPS)</b> 28, pp. 865-873</i></a>, 2015.</li>
+  <li><b>Zheng Qu</b>. A max-plus based randomized algorithm for solving a class of HJB PDEs, <a href="https://ieeexplore.ieee.org/document/7039624"><i>53rd IEEE Conference on Decision and Control <b>(CDC)</b>, Los Angeles, CA, 2014, pp. 1575-1580</i></a>.</li>
+  <li>Stephane Gaubert, <b>Zheng Qu</b> and Srinivas Sridharan. Bundle-based pruning in the max-plus curse of dimensionality free method, <i>Proceedings of the 21st International Symposium on Mathematical Theory of Networks and Systems <b>(MTNS)</b>, Groningen</i>, 2014.</li>
+  <li><b>Zheng Qu</b>. Contraction of Riccati flows applied to the convergence analysis of the max-plus curse of dimensionality free method. <i>Proceedings of the 12th biannual European Control Conference <b>(ECC)</b>, pp.2226-2231</i>, 2013.</li>
+  <li>Stephane Gaubert, <b>Zheng Qu</b>. Markov operators on cones and non-commutative consensus. <i>Proceedings of the 12th biannual European Control Conference <b>(ECC)</b>, pp.2693-2700</i>, 2013.</li>
+  <li>Stephane Gaubert, William M. McEneaney and <b>Zheng Qu</b>. Curse of dimensionality reduction in max-plus based approximation methods: theoretical estimates and improved pruning algorithms, <a href="https://ieeexplore.ieee.org/document/6161386"><i>IEEE 50th Conference on Decision and Control and European Control Conference <b>(CDC)</b>, pp.1054-1061, Orlando</i></a>, 2011.</li>
+</ul>
