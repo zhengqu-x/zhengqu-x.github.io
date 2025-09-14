@@ -27,7 +27,9 @@
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
-      {% if post.collection == 'teaching' %}
+      {% if post.collection == 'publications' %}
+        {{ title }}
+      {% elsif post.collection == 'teaching' %}
         {{ title }}
       {% elsif post.collection == 'talks' and post.permalink %}
         <a href="{{ post.permalink }}" target="_blank" rel="noopener">{{ title }}</a>
@@ -45,7 +47,6 @@
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
-          <p><strong>{{ title }}</strong></p>
           {% if post.authors %}<p>{{ post.authors }}.</p>{% endif %}
           {% if post.venue or post.date %}
             <p>
