@@ -1,7 +1,7 @@
 ---
 
 permalink: /
-title: "Zheng Qu's website"
+title: "About me"
 author_profile: true
 layout: single
 redirect_from: 
@@ -9,14 +9,32 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am currently a Professor at the School of Mathematical Sciences, Shenzhen University. My research focuses on large-scale optimization and optimal control problems, encompassing both the development of algorithms and complexity analysis. I have worked on sum-of-squares relaxations for polynomial optimization, inexact augmented Lagrangian methods, restarting techniques for Nesterov's accelerated methods, randomized coordinate descent (serial, parallel, distributed, accelerated, and primal-dual variants), strategies to mitigate the curse of dimensionality in Hamilton-Jacobi-Bellman equations, and nonlinear Perron-Frobenius theory. 
 
-A data-driven personal website
+
+
+Representative Publications
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
+<ul>
+  <li>Zheng Hua and <b>Zheng Qu</b>. Exactness and effective degree bound of Lasserre's relaxation for polynomial optimization over finite variety, <i>Mathematics of Operations Research,</i> 2025. <a href="https://doi.org/10.1287/moor.2024.0483">DOI:10.1287/moor.2024.0483</a></li>
+  <li>Jiawang Nie, <b>Zheng Qu</b>, Xindong Tang and Linghao Zhang. A characterization for tightness of the sparse Moment-SOS hierarchy, <i>Mathematical Programming,</i> 2025. <a href="https://doi.org/10.1007/s10107-025-02223-2">DOI:10.1007/s10107-025-02223-2</a></li>
+  <li><b>Zheng Qu</b>, Tianyou Zeng and Yuchen Lou. Globally solving concave quadratic programs via doubly nonnegative relaxation, <i>Mathematical Programming Computation,</i> 2025. <a href="https://doi.org/10.1007/s12532-025-00279-x">DOI:10.1007/s12532-025-00279-x</a></li>
+  <li><b>Zheng Qu</b> and Xindong Tang. A correlatively sparse Lagrange multiplier expression relaxation for polynomial optimization, <i>SIAM Journal on Optimization 34(1), 127-162,</i> 2024. <a href="https://doi.org/10.1137/22M1515689">DOI:10.1137/22M1515689</a></li>
+  <li>Marianne Akian, Stephane Gaubert, <b>Zheng Qu</b> and Omar Saadi. Multiply accelerated value iteration for non-symmetric affine fixed point problems and application to Markov decision processes, <i>SIAM Journal on Matrix Analysis and Applications 43(1), 199-232</i>, 2022. <a href="https://epubs.siam.org/doi/abs/10.1137/20M1367192">DOI:10.1137/20M1367192</a></li>
+  <li>Fei Li, <b>Zheng Qu</b>. An inexact proximal augmented Lagrangian framework with arbitrary linearly convergent inner solver for composite convex optimization, <i>Mathematical Programming Computation 13, 583-644</i>, 2021. <a href="https://link.springer.com/article/10.1007%2Fs12532-021-00205-x">DOI:10.1007/s12532-021-00205-x</a></li>
+  <li>Xun Qian, <b>Zheng Qu</b> and Peter Richtárik. L-SVRG and L-Katyusha with arbitrary sampling, <a href="https://jmlr.csail.mit.edu/papers/v22/20-156.html"><i>Journal of Machine Learning Research, 22(112), 1-47</i></a>, 2021.</li>
+  <li>Olivier Fercoq, <b>Zheng Qu</b>.  Restarting the accelerated coordinate descent method with a rough strong convexity estimate, <i>Computational Optimization and Applications, 75:63-91</i>, 2020.  <a href="https://link.springer.com/article/10.1007/s10589-019-00137-2">DOI:10.1007/s10589-019-00137-2</a></li>
+  <li>Olivier Fercoq, <b>Zheng Qu</b>. Adaptive restart of accelerated gradient methods under local quadratic growth condition, <i>IMA Journal of Numerical Analysis, 39(4):2069-2095</i>, 2019. <a href="https://academic.oup.com/imajna/article-abstract/39/4/2069/5365591?login=false">DOI:10.1093/imanum/drz007</a></li>
+  <li>Yassamine Seladji, <b>Zheng Qu</b>. Polyhedron overapproximation for complexity reduction in static analysis, <i>International Journal of Computer Mathematics: Computer Systems Theory</i>, 2018. <a href="https://www.tandfonline.com/doi/abs/10.1080/23799927.2018.1535525">DOI:10.1080/23799927.2018.1535525</a></li>
+  <li>Jakub Konečný, <b>Zheng Qu</b> and Peter Richtárik. S2CD: Semi-stochastic coordinate descent, <i>Optimization Methods and Software, 32:993-1005</i>, 2017. <a href="https://www.tandfonline.com/doi/full/10.1080/10556788.2017.1298596">DOI:10.1080/10556788.2017.1298596</a></li>
+  <li>Stephane Gaubert, <b>Zheng Qu</b>. Checking the strict positivity of Kraus maps is NP-hard, <i>Information Processing Letters, 118:35-43</i>, 2017.  <a href="https://www.sciencedirect.com/science/article/pii/S0020019016301351?via%3Dihub">DOI:10.1016/j.ipl.2016.09.008</a></li>
+  <li><b>Zheng Qu</b>, Peter Richtárik. Coordinate descent with arbitrary sampling I: algorithms and complexity, <i>Optimization Methods and Software, 31(5):829-857</i>, 2016.  <a href="http://www.tandfonline.com/doi/full/10.1080/10556788.2016.1190360">DOI:10.1080/10556788.2016.1190360</a></li>
+  <li><b>Zheng Qu</b>, Peter Richtárik. Coordinate descent with arbitrary sampling II: expected separable overapproximation, <i>Optimization Methods and Software,31(5):858-884</i>, 2016. <a href="http://dx.doi.org/10.1080/10556788.2016.1190361">DOI:10.1080/10556788.2016.1190361</a></li>
+  <li>Stephane Gaubert, <b>Zheng Qu</b> and Srinivas Sridharan. Maximizing concave piecewise affine functions on the unitary group, <i>Optimization Letters, 10(4):655-665</i>, 2016.  <a href="http://link.springer.com/article/10.1007/s11590-015-0951-y">DOI:10.1007/s11590-015-0951-y</a></li>
+  <li>Stephane Gaubert, <b>Zheng Qu</b>. Dobrushin ergodicity coefficient for Markov operators on cones, <i>Integral Equations and Operator Theory, 81(1):127-150,</i> 2014. <a href="http://link.springer.com/article/10.1007%2Fs00020-014-2193-2">DOI:10.1007/s00020-014-2193-2</a></li>
+  <li><b>Zheng Qu</b>. Contraction of Riccati flows applied to the convergence analysis of a max-plus curse of dimensionality free method, <i>SIAM Journal on Control and Optimization, 52(5):2677-2706,</i> 2014. <a href="http://epubs.siam.org/doi/abs/10.1137/130906702">DOI:10.1137/130906702</a></li>
+  <li>Stephane Gaubert, <b>Zheng Qu</b>. The contraction rate in Thompson metric of order-preserving flows on a cone - application to generalized Riccati equations, <i>Journal of Differential Equations, 256(8):2902-2948,</i> 2014. <a href="http://www.sciencedirect.com/science/article/pii/S0022039614000424">DOI:10.1016/j.jde.2014.01.024</a></li>
+</ul>
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
