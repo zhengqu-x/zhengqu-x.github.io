@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Professor at the School of Mathematical Sciences, Shenzhen University. My research focuses on large-scale optimization and optimal control problems, encompassing both the development of algorithms and complexity analysis. I have worked on sum-of-squares relaxations for polynomial optimization, inexact augmented Lagrangian methods, restarting techniques for Nesterov's accelerated methods, randomized coordinate descent (serial, parallel, distributed, accelerated, and primal-dual variants), strategies to mitigate the curse of dimensionality in Hamilton-Jacobi-Bellman equations, and nonlinear Perron-Frobenius theory. 
+I am currently a Professor at the School of Mathematical Sciences, Shenzhen University. My research focuses on large-scale optimization and optimal control problems, encompassing both the development of algorithms and complexity analysis. I have worked on sum-of-squares relaxations for polynomial optimization, inexact augmented Lagrangian methods, restarting techniques for Nesterov's accelerated methods, randomized coordinate descent (serial, parallel, distributed, accelerated, and primal-dual variants), attenuation of the curse of dimensionality for solving Hamilton-Jacobi-Bellman equations, and nonlinear Perron-Frobenius theory. 
 
 
 
