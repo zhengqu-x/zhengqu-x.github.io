@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: https://www.orsc.org.cn/article/detail?id=906
 venue: ""
-date: 2024-05
+date: 2024-05-25
 location: "Shenzhen, China"
 ---
 

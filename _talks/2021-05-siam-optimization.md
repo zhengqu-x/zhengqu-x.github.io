@@ -2,9 +2,9 @@
 title: "SIAM Conference on Optimization"
 collection: talks
 type: "Talk"
-permalink: https://www.siam.org/conferences/cm/conference/op21
+permalink: https://www.siam.org/conferences-events/past-event-archive/op21/
 venue: ""
-date: 2021-05
+date: 2021-07-20
 location: "Online"
 ---
 
