@@ -9,4 +9,3 @@ date: 2023-06-01
 location: "Seattle, US"
 ---
 
-Presented at the SIAM Conference on Optimization, Seattle, US, June 2023.
