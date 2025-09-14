@@ -7,7 +7,6 @@ venue: "HKBU Virtual Conference on Mathematics, Statistics and Data Science"
 date: 2021-04-01
 location: "Online"
 link: "https://sites.google.com/hkbu.edu.hk/hkbu-mathstat-data"
-slides: "SlidesHKBU.pdf"
 ---
 
-Presented at the HKBU Virtual Conference on Mathematics, Statistics and Data Science, April 2021. [Slides](SlidesHKBU.pdf).
+Presented at the HKBU Virtual Conference on Mathematics, Statistics and Data Science, April 2021.
