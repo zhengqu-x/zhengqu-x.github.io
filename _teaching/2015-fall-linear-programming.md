@@ -7,6 +7,6 @@ date: 2015-09-01
 location: "Hong Kong"
 ---
 
-Regular undergraduate teaching conducted each spring semester from 2015 through 2024. This course covers fundamental theory of linear programming.
+Regular undergraduate teaching conducted each spring semester from 2015 through 2024. This course covers fundamental theory and algorithms of linear programming.
 
 
