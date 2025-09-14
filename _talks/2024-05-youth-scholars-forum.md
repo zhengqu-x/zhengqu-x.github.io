@@ -1,5 +1,5 @@
 ---
-title: "The First Youth Scholars Forum of the Mathematical Programming Branch of the China Operations Research Society"
+title: "首届中国运筹学会数学规划分会青年学者论坛"
 collection: talks
 type: "Talk"
 permalink: https://www.orsc.org.cn/article/detail?id=906

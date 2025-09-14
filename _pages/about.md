@@ -13,6 +13,13 @@ I am currently a Professor at the School of Mathematical Sciences, Shenzhen Univ
 
 
 
+Join Our Research Team!
+=====
+
+We are seeking talented researchers and postgraduate students to become part of our dynamic group.
+
+Undergraduate students interested in pursuing undergraduate research projects with us are also warmly welcomed.
+
 Journal Publications
 ======
 <ul>
