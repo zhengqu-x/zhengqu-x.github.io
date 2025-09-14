@@ -45,9 +45,8 @@
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
-          <p>
-            <strong>{{ title }}</strong>{% if post.authors %}. {{ post.authors }}.{% endif %}
-          </p>
+          <p><strong>{{ title }}</strong></p>
+          {% if post.authors %}<p>{{ post.authors }}.</p>{% endif %}
           {% if post.venue or post.date %}
             <p>
               Published in{% if post.venue %} <i>{{ post.venue }}</i>{% endif %}{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}
