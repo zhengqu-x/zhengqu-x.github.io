@@ -13,8 +13,10 @@ I am currently a Professor at the School of Mathematical Sciences, Shenzhen Univ
 
 
 
-Join our research team!
-=====
+
+<p style="background-color: #ffe066; padding: 10px; font-weight: bold; font-size: 1.2em; border-radius: 6px; text-align: center; margin-top: 2em; margin-bottom: 0.5em;">
+  Join our research team!
+</p>
 
 We are seeking talented researchers and postgraduate students to become part of our dynamic group.
 
