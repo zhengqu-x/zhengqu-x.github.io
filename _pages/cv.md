@@ -1,4 +1,10 @@
 
+---
+layout: archive
+permalink: /cv/
+author_profile: true
+---
+
 [Download my CV (PDF)](/files/QZ_CV.pdf)
 ---
 
