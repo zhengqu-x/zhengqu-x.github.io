@@ -26,6 +26,13 @@ I am currently a Professor at the School of Mathematical Sciences, Shenzhen Univ
   </p>
 </div>
 
+New papers
+======
+<ul>
+  <li><b>Zheng Qu</b>, Defeng Sun and Jintao Xu. Progressive Bound Strengthening via Doubly Nonnegative Cutting Planes for Nonconvex Quadratic Programs, <i>arXiv preprint arXiv:2510.02948</i>, 2025. <a href="https://arxiv.org/abs/2510.02948">arXiv:2510.02948</a></li>
+  <li>Kaja Gruntkowska, Yassine Maziane, <b>Zheng Qu</b> and Peter Richtárik. Drop-Muon: Update Less, Converge Faster, <i>arXiv preprint arXiv:2510.02239</i>, 2025. <a href="https://arxiv.org/abs/2510.02239">arXiv:2510.02239</a></li>
+</ul>
+
 Journal Publications
 ======
 <ul>
