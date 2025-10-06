@@ -14,13 +14,17 @@ I am currently a Professor at the School of Mathematical Sciences, Shenzhen Univ
 
 
 
-<p style="background-color: #ffe066; padding: 10px; font-weight: bold; font-size: 1.2em; border-radius: 6px; text-align: center; margin-top: 2em; margin-bottom: 0.5em;">
-  Join our research team!
-</p>
-
-We are seeking talented researchers and postgraduate students to become part of our dynamic group.
-
-Undergraduate students interested in pursuing undergraduate research projects with us are also warmly welcomed.
+<div style="background-color: #ffe066; padding: 15px; border-radius: 6px; margin-top: 2em; margin-bottom: 2em;">
+  <p style="font-weight: bold; font-size: 1.2em; text-align: center; margin-bottom: 10px;">
+    Join our research team!
+  </p>
+  <p style="font-size: 0.95em; margin-bottom: 8px;">
+    We are seeking talented researchers and postgraduate students to become part of our dynamic group.
+  </p>
+  <p style="font-size: 0.95em; margin-bottom: 0;">
+    Undergraduate students interested in pursuing undergraduate research projects with us are also warmly welcomed.
+  </p>
+</div>
 
 Journal Publications
 ======
