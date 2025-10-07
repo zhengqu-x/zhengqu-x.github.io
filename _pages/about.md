@@ -29,7 +29,7 @@ I am currently a Professor at the School of Mathematical Sciences, Shenzhen Univ
 New papers
 ======
 <ul>
-  <li><b>Zheng Qu</b>, Defeng Sun and Jintao Xu. Progressive Bound Strengthening via Doubly Nonnegative Cutting Planes for Nonconvex Quadratic Programs, <i>arXiv preprint arXiv:2510.02948</i>, 2025. <a href="https://arxiv.org/abs/2510.02948">arXiv:2510.02948</a></li>
+  <li><b>Zheng Qu</b>, Defeng Sun and Jintao Xu. Progressive Bound Strengthening via Doubly Nonnegative Cutting Planes for Nonconvex Quadratic Programs, <i>arXiv preprint arXiv:2510.02948</i>, 2025. <a href="https://arxiv.org/abs/2510.02948">arXiv:2510.02948</a>| <a href="https://github.com/zhengqu-x/DCQP">code</a></li>
   <li>Kaja Gruntkowska, Yassine Maziane, <b>Zheng Qu</b> and Peter Richtárik. Drop-Muon: Update Less, Converge Faster, <i>arXiv preprint arXiv:2510.02239</i>, 2025. <a href="https://arxiv.org/abs/2510.02239">arXiv:2510.02239</a></li>
 </ul>
 
@@ -41,7 +41,7 @@ Journal Publications
   <li><b>Zheng Qu</b>, Tianyou Zeng and Yuchen Lou. Globally solving concave quadratic programs via doubly nonnegative relaxation, <i>Mathematical Programming Computation,</i> 2025. <a href="https://doi.org/10.1007/s12532-025-00279-x">DOI:10.1007/s12532-025-00279-x</a></li>
   <li><b>Zheng Qu</b> and Xindong Tang. A correlatively sparse Lagrange multiplier expression relaxation for polynomial optimization, <i>SIAM Journal on Optimization 34(1), 127-162,</i> 2024. <a href="https://doi.org/10.1137/22M1515689">DOI:10.1137/22M1515689</a></li>
   <li>Marianne Akian, Stephane Gaubert, <b>Zheng Qu</b> and Omar Saadi. Multiply accelerated value iteration for non-symmetric affine fixed point problems and application to Markov decision processes, <i>SIAM Journal on Matrix Analysis and Applications 43(1), 199-232</i>, 2022. <a href="https://epubs.siam.org/doi/abs/10.1137/20M1367192">DOI:10.1137/20M1367192</a></li>
-  <li>Fei Li, <b>Zheng Qu</b>. An inexact proximal augmented Lagrangian framework with arbitrary linearly convergent inner solver for composite convex optimization, <i>Mathematical Programming Computation 13, 583-644</i>, 2021. <a href="https://link.springer.com/article/10.1007%2Fs12532-021-00205-x">DOI:10.1007/s12532-021-00205-x</a></li>
+  <li>Fei Li, <b>Zheng Qu</b>. An inexact proximal augmented Lagrangian framework with arbitrary linearly convergent inner solver for composite convex optimization, <i>Mathematical Programming Computation 13, 583-644</i>, 2021. <a href="https://link.springer.com/article/10.1007%2Fs12532-021-00205-x">DOI:10.1007/s12532-021-00205-x</a>| <a href="https://github.com/zhengqu-x/IPALM">code</a></li>
   <li>Xun Qian, <b>Zheng Qu</b> and Peter Richtárik. L-SVRG and L-Katyusha with arbitrary sampling, <a href="https://jmlr.csail.mit.edu/papers/v22/20-156.html"><i>Journal of Machine Learning Research, 22(112), 1-47</i></a>, 2021.</li>
   <li>Olivier Fercoq, <b>Zheng Qu</b>.  Restarting the accelerated coordinate descent method with a rough strong convexity estimate, <i>Computational Optimization and Applications, 75:63-91</i>, 2020.  <a href="https://link.springer.com/article/10.1007/s10589-019-00137-2">DOI:10.1007/s10589-019-00137-2</a></li>
   <li>Olivier Fercoq, <b>Zheng Qu</b>. Adaptive restart of accelerated gradient methods under local quadratic growth condition, <i>IMA Journal of Numerical Analysis, 39(4):2069-2095</i>, 2019. <a href="https://academic.oup.com/imajna/article-abstract/39/4/2069/5365591?login=false">DOI:10.1093/imanum/drz007</a></li>
