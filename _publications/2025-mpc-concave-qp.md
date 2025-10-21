@@ -7,5 +7,5 @@ excerpt: 'Zheng Qu, Tianyou Zeng and Yuchen Lou. Globally solving concave quadra
 date: 2025-01-01
 venue: 'Mathematical Programming Computation'
 paperurl: 'https://doi.org/10.1007/s12532-025-00279-x'
-citation: 'Zheng Qu, Tianyou Zeng and Yuchen Lou. (2025). "Globally solving concave quadratic programs via doubly nonnegative relaxation." <i>Mathematical Programming Computation</i>.'
+citation: 'Zheng Qu, Tianyou Zeng and Yuchen Lou. (2025). "Globally solving concave quadratic programs via doubly nonnegative relaxation." <i>Mathematical Programming Computation 17, 451–503</i>.'
 ---
